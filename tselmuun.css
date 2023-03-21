@@ -5,31 +5,98 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-color: black;
+    background-color: white;
     display: flex;
 }
-.one{
+.card{
     width: 25%;
     height: 100%;
-    background-color: rgb(255, 0, 0);
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.in one{
+.r{
     width: 90%;
-    height: 90%;
-    background:linear-gradient(to right, brown,black,)
+    height: 95%;
+    background: linear-gradient(to right, rgb(44, 44, 206), white);
 }
-.two{
+.card1{
+    width: 25%;
+    height: 100%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.lol{
+    width: 90%;
+    height: 20%;
+    background: linear-gradient(to right, rgb(194, 42, 42),white);
+}
+.card2{
     width: 25%;
     height: 100%;
     background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
 }
-.three{
+.haha1{
+    width: 90%;
+    height: 35%;
+    background: linear-gradient(to right, rgb(192, 194, 42),white);
+}
+.haha2{
+    width: 90%;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.aa{
+    width: 30%;
+    height: 90%;
+    background: linear-gradient(to right, rgb(192, 194, 42),white);
+}
+.haha3{
+    width: 90%;
+    height: 22.5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.aa1{
+    width: 45%;
+    height: 90%;
+    background: linear-gradient(to right, rgb(192, 194, 42),white);
+}
+.haha4{
+    width: 90%;
+    height: 22.5%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.aa3{
+    width: 45%;
+    height: 90%;
+    background: linear-gradient(to right, rgb(192, 194, 42),white);
+}
+.card3{
     width: 25%;
     height: 100%;
-    background-color: cornflowerblue;
+    background-color: rgb(44, 146, 13);  
 }
-.four{
-    width: 25%;
-    height: 100%;
-    background-color: fuchsia;
+.hehe{
+    width: 90%;
+    height: 15%;
+    background: linear-gradient(to right, rgb(11, 155, 6), white);
+}
+.hehe1{
+    width: 90%;
+    height: 75%;
+    background: linear-gradient(to right, rgb(11, 155, 6), white);
 }
