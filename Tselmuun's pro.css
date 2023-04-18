@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: blueviolet;
+    display: flex;
+}
+.deed{
+    width: 100%;
+    height: 40%;
+    background-color: black;
+    display: flex;
+}
+.baruun{
+    width: 50%;
+    height: 100%;
+    background-color: azure;
+}
+.zuun{
+    width: 50%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+
+.dood{
+    width: 100%;
+    height: 60%;
+    background-color: slateblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

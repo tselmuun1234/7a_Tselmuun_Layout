@@ -89,14 +89,19 @@
     width: 25%;
     height: 100%;
     background-color: rgb(44, 146, 13);  
+    display: flex;
 }
 .hehe{
     width: 90%;
     height: 15%;
     background: linear-gradient(to right, rgb(11, 155, 6), white);
+    justify-content: center;
+    align-items: center;
 }
 .hehe1{
     width: 90%;
     height: 75%;
     background: linear-gradient(to right, rgb(11, 155, 6), white);
+    justify-content: center;
+    align-items: center;
 }
